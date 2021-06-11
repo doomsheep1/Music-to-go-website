@@ -129,6 +129,6 @@
 
       include ("include-headerfooter.html");
     ?>
-    <button type="button"><a href="userLogin.php">Logout</a></button>
+    <button type="button"><a href="index.php">Logout</a></button>
   </body>
 </html>

@@ -12,7 +12,7 @@
     <style>
       .headerfooter {
         background-color:lightblue;
-        text-align:center;
+        text-align:left;
       }
     </style>
   </head>
