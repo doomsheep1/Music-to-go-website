@@ -1,6 +1,6 @@
 ![alt text](https://github.com/doomsheep1/Music-to-go-website/blob/main/pictures/title%20banner.PNG "Music-to-go")
 ## Project description
-Music-To-Go is a small website that allows for rental of musical gear or instruments. An account is required to login to access the system. There are 2 types of account users: Administrator and regular user (client). This was a **school assignment** done using mostly HTML and PHP.
+Music-To-Go is a small website that allows for rental of musical gear or instruments. An account is required to login to access the system. There are 2 types of account users: Administrator and regular user (client). This was a **school assignment** done using mostly HTML and PHP with an object-oriented implementation.
 ### Design specification
 1. The website has pages for:
 	- Registration/login of users
